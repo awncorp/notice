@@ -182,3 +182,29 @@ is met. When met, this function returns details about the trigger engaged.
             ],
           },
         ));
+
+# AUTHOR
+
+Al Newkirk, `awncorp@cpan.org`
+
+# LICENSE
+
+Copyright (C) 2011-2019, Al Newkirk, et al.
+
+This is free software; you can redistribute it and/or modify it under the terms
+of the The Apache License, Version 2.0, as elucidated in the ["license
+file"](https://github.com/iamalnewkirk/notice/blob/master/LICENSE).
+
+# PROJECT
+
+[Wiki](https://github.com/iamalnewkirk/notice/wiki)
+
+[Project](https://github.com/iamalnewkirk/notice)
+
+[Initiatives](https://github.com/iamalnewkirk/notice/projects)
+
+[Milestones](https://github.com/iamalnewkirk/notice/milestones)
+
+[Contributing](https://github.com/iamalnewkirk/notice/blob/master/CONTRIBUTE.md)
+
+[Issues](https://github.com/iamalnewkirk/notice/issues)
